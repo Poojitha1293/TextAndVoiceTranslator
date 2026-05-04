@@ -35,6 +35,12 @@ It also supports **speech recognition** and **text-to-speech playback** of the t
 
 ## ▶️ Run the App
 
+For Switching to Desktop Through Command Prompt 
+
+The following Command is used:
+
+cd OneDrive\Desktop
+
 Run the Streamlit app with:
 
 ```bash
