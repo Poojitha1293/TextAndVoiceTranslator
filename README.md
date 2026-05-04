@@ -39,9 +39,9 @@ For Switching to Desktop Through Command Prompt
 
 The following Command is used:
 
-'''bash
+```bash
 cd OneDrive\Desktop
-'''
+```
 
 Run the Streamlit app with:
 
